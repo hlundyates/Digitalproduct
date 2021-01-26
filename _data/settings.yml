@@ -4,7 +4,7 @@ footer_text: Copyright 2020 hlundyates
 header_feature_image: ../uploads/anete-lusina-zwshjake_ii-unsplash.jpg
 header_text: A Discovery of...
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 60vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
