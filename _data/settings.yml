@@ -5,7 +5,7 @@ header_feature_image: ../uploads/anete-lusina-zwshjake_ii-unsplash.jpg
 header_text: Food.Lifestyle.Recipes
 header_text_color: "#ffffff"
 bannerheight: 50vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/img_7996.jpeg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: false
