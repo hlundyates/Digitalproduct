@@ -6,4 +6,4 @@ show: false
 layout: recipeslisting
 published: true
 ---
-Here are all of the recipes
+Here are all of the recipes:
