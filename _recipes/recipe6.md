@@ -1,5 +1,5 @@
 ---
-title: Recipe 6
+title: Alice's Eat Me Biscuits
 order: 1
 date: 2019-10-19
 layout: recipe
