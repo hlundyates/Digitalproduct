@@ -1,55 +1,45 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
 title: Recipe 6
-date: 2019-10-19
-published: true
 order: 1
+date: 2019-10-19
+layout: recipe
+published: true
 tags:
   - Greek
   - Meat
   - Hot
 ---
-
-This is just some sample content to show you what _markdown_ looks like. There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+Unfortunatly these Alice in Wonderland inspired biscuits won't make you grow but they are good fun to make (and eat)!
 
 ![Moussaka](../uploads/moussaka.jpg)
 
-
 ## Ingredients
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+### For the Biscuits
 
+* 300g of plain flour
+* 1/4 tsp of slat
+* 150g of caster sugar 
+* 150g of cold unsalted butter (diced) 
+* 1 large egg 
+* 1 tsp of vanilla extract 
+
+### For the icing 
+
+* 400g of icing sugar 
+* 75ml of water 
+* Gel food colouring (colours of your choice)
+* Icing pen
 
 ## Method
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+1. Preheat the oven to 180°C or 160°C Fan. Line 2 baking trays with baking parchment.
+2. Combine the flour, salt and caster sugar. Add the butter and rub together with your hands until the mixture looks like bread crumbs
+3. Beat the egg and vanilla together with a fork and then mix into the other ingredients. Knead until combines. Chill the dough in the fridge until it is firm and then roll out into a dusted surface. It should be about 4-5mm thick. Cut out 8cm circles (or whichever shapes you prefer) and move onto the baking trays. To help them keep their shape chill again in the fridge for 15 mins. 
+4. Bake for 15-17 minutes until golden an then remove from the oven and cool on a wire rack
+5. While they cool you can make the icing, add about 65 ml of water to the icing sugar and beat until it is fairly thick and smooth. Be careful about the consistency because it you have to be able to pipe it. Take a quarter of the icing and transfer it into a piping back with a very small nozzle (No2). Set aside.
+6. Add the remaining water to the icing in drops or until it is pourable, this is the flooding icing. Once you have the right constancy transfer into as many bowls as needed for your coulis choices. Add the food colouring, and place into piping bags,
+7. Use the thicker icing to draw an outline of your shape onto the biscuit. Pipe enough of the coloured icing to fill the shape drawn. Use a toothpick to gently move the icing to the outline you have drawn. The biscuit can be shaken gently to get the icing smooth. 
+8. Once this has set, allow about 30 mins, use the icing pen to write the words ‘Eat me’ or ‘Take on’ onto the centre of the biscuit. 
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
-
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
-
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
-
-- Serves: 6
-- Preparation time: 1 hour
+Adapted from: BBC Goodfood
