@@ -2,9 +2,9 @@ title: A Discovery of...
 description: A website with a blog
 footer_text: Copyright 2021 hlundyates
 header_feature_image: ../uploads/anete-lusina-zwshjake_ii-unsplash.jpg
-header_text: Food.Lifestyle.Recipes
+header_text: Publishing.Lifestyle.Recipes
 header_text_color: "#ffffff"
-bannerheight: 50vmax
+bannerheight: 40vmax
 logo: ../uploads/img_7996.jpeg
 favicon: /uploads/favicon.ico
 gridlayout: true
