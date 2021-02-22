@@ -1,16 +1,10 @@
 ---
-title: My Recipes
+title: Recipes
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+![This is an image of the cover of my recipe book. It contains two cartoon style illustrations, both feature food. The tile It's Always Tea Time is featured in the centre of the image](../uploads/img_0272.jpeg "Cover of Ebook")
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Add the cover image here.
-
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Disney films are loved by many people across generations. For many years people have dedicated lots of time to replicating the food mentioned in the films and from the Disneyland parks. During the pandemic, social media such as TikTok has further increased this craze for reproducing the food, as people found themselves stuck at home and either missing going to the parks or spent more time watching the films. I have created a collection of six recipes from my favourite Disney films, collated together into this list. There are an equal split of ‘types’ of foods, 3 savoury and 3 desserts. I have given my recipes the collective title of ‘*It’s Always Tea Time*’ this is a quote from Alice in Wonderland.
