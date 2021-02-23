@@ -8,6 +8,8 @@ tags: null
 ---
 If you ask anyone to name a food from a Disney movie I think they would say Ratatouille.. nothing is more iconic than Remy making this food for Ego! The films version is also unique as the vegetables are sliced rather than chopped. Enjoy!!
 
+![A cartoon image of Remy the rat spooning sauce onto ratatouille](../uploads/img_0281.jpeg)
+
 ## Ingredients
 
 * 2 Aubergines
@@ -39,7 +41,5 @@ If you ask anyone to name a food from a Disney movie I think they would say Rata
 3. Arrange the vegetables in an alternating pattern (just like Remy!) over the top of the sauce.
 4. Now make the herb seasoning by mixing all the ingredients in a small bowl. Sprinkle this over the top of the vegetables. 
 5. Cover the pan will foil to stop the vegetables from burning and bake for 40 mins. Uncover it and bake for a further 20 minted - this should mean that the vegetables are now softener and ready to eat. 
-
-
 
 Adapted from: Tasty Ratatouille
