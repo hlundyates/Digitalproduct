@@ -9,9 +9,9 @@ tags:
   - Meat
   - Hot
 ---
-Unfortunatly these Alice in Wonderland inspired biscuits won't make you grow but they are good fun to make (and eat)!
+There are lots of intresting foods in Alice in Wonderland, butterfly toast, a drink that will make you shrink and a biscuit to make you grow. Unfortunatly these Alice in Wonderland inspired biscuits won't make you grow but they are good fun to make (and eat)!
 
-![Moussaka](../uploads/moussaka.jpg)
+![A hand is reaching into a box with three biscuits inside - it is holding a light blue biscuit with the words Eat Me](../uploads/img_0283.jpeg)
 
 ## Ingredients
 
