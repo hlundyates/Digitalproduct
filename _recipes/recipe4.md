@@ -8,6 +8,8 @@ tags: null
 ---
 Another Disney movie where food is heavily featured is Princess and the Frog, Tiana's dream of owning her own restraunt are what drives the move. New Orleans is known for its cuisine, especially at during Mardi Gras and the beignets are infamous!!
 
+![Tiana from the movie Princess and the Frog is holding a tray of beignets](../uploads/img_0267.jpeg)
+
 ## Ingredients
 
 * 340g of plain flour
