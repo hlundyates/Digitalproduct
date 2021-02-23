@@ -8,6 +8,8 @@ tags: null
 ---
 My favourite Disney movie is an obsure one.. but I adore The Emporers New Groove and food features at various points across the movie. Kronk's desire to eat his spinach puffs while Ezma is trying to get rid of Kusco always makes me laugh - so they had to be include in this list of recipes. 
 
+![An cartoon style image with the character Kronk holding spinach puffs](../uploads/img_0282.jpeg)
+
 ## Ingredients
 
 * 4 pieces of bacon
