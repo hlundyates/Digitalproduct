@@ -6,6 +6,10 @@ layout: recipe
 published: true
 tags: null
 ---
+Snow White is a classic Disney movie and so had to be included - although the scene where she eats an apple is the most popular just before this happens she cooks a pie for Grumpy. I thought it was the perfect idea to incoporate the two and make it an apple pie!
+
+![Snow White stands in the centre holding an apple pie ](../uploads/img_0284.jpeg)
+
 ## Ingredients
 
 ### For the Apple Filling
