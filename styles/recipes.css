@@ -1,84 +1,141 @@
 /* CSS for recipes */
 
-html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  background: #fff;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body {
-  margin: 30px;
-}
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-
+  background-color:rgb(86, 140, 203) ;
+font-family:serif;
+width: 100%;
+font-size: 1.2rem;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 3%;}
+main{
+background-color: aliceblue;
+width:65%;
+max-width: 900px;
+margin: 1.2rem auto;
+display:flex;
+flex-wrap: wrap;
+flex-direction: row;}
+header{
+color: black;
+width:100%;
+padding-top: 1.2rem;}
+header h1{
+text-align: center;
+font-size: 2.5rem;
+color: midnightblue;}
 img {
-  max-width: 100%;
+width: 100%;
+border: 1px solid black;}
+p{
+padding-left: 5%;
+padding-right: 5%;
+padding-bottom: 2%;}
+p:first-child {
+  font-size: 1.5rem;
+  color: black;}
+p:last-child {
+font-size: 1.2rem;}
+figure {
+width:30%;
+float:right;
+margin-left: 2rem;}
+
+@media screen and (max-width: 700px){
+  figure {
+  width:70%;
+  float: none;
+  margin: 0 auto;}
+  main{
+  width:100%;}
+  body{
+    background-color: white;
+    padding: 0;}
+}
+@media screen and (max-width: 500px){
+  figure {
+  width:100%;
+  float: none;
+  margin: 0 auto;}
+
+}
+h2{
+color: black;
+padding-left: 3%;
+text-decoration:underline;
+}
+h3{
+color: black;
+padding-left: 3%;
+text-decoration:underline;
+}
+ul{
+padding-left: 8%;
+padding-right: 8%;}
+ol{
+padding-left: 8%;
+padding-right: 8%;}
+
+@media screen and (max-width:700px){
+
+main {
+  width: 100%;
+}
+header {
+  width:60%;
+  margin:0 auto;
+}
+  img {
+width:100%;
+margin:0 auto;
+  }
 }
 
-blockquote {
+@media screen and (min-width:1600px) {
+
+  img{
+    width:110%;
+    margin:0 auto;}
 }
 
-.caption {
-  display: block;
-}
+.menu a { color: White;
+  text-decoration: none;}
+.recipehere {
+  color: gold;}
 
-table {
-}
-
-td,
-th {
-}
-
-p,
-ol,
-ul {
-  line-height: 1.5;
-  margin-bottom: 1em;
-}
-
-hr {
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid #fff;
-  margin: 1em 0;
-}
-
-a {
-  color: #337ab7;
-  text-decoration: none;
+body.recipe p: first-child, body.recipe h1 {
+  margin-left: 10rem;
 }
 
 /* for a menu for all recipes */
 ul.allrecipes {
-  list-style: none;
-}
-
+  list-style: none;}
 .menu {
+  background-color:rgb(35, 42, 130) ;
   display: block;
-  border: 1px solid gray;
   width: 15%;
   font-size: 60%;
   padding: 10px;
   margin: 20px 0;
+  min-width: 120px;
+  position: absolute;
+left:0;}
+
+@media screen and (max-width:850px) {
+  figure {
+  width:100%;
+  float: none;
+  margin: 0 auto 2rem auto;}
+
+  body.recipe p: first-child, body.recipe h1 {
+    margin-left: 0;}
+
+  .menu {
+    position:relative;
+    top: 0;
+    width: 100%;
+    text-align:center;
+    font-size: 0.8rem;
+  }
 }
