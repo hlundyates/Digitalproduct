@@ -28,6 +28,6 @@ We’ve talked about what makes a bad book cover - but what about a good one? Fo
 
 You can’t include a blog post on book covers without showing your favourites so here are my top 5 below! (Some of these I’ve read and some I haven’t) 
 
-IMAGES
+![Hamnet, Wolf Hall, A Court of Miracles, The Familiars and To Kill a Kingdom](../uploads/img_9786.jpeg)
 
 What about you - what do you think makes a good cover? Which ones are your favourite?
