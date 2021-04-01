@@ -16,7 +16,7 @@ After my last blog post where I talked about steps I was following to help me to
 
 Penguin Random House have a great section on their website where they feature video interviews with employees discussing their job. Here is the one I watched on book design: 
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=FJEfthrMLhs?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=FJEfthrMLhs&t=20s?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 I thought it was really interesting that Marianne described designing a cover as ‘Visual storytelling’, she said it wasn’t about the words but using images and texture to convey the message/story of the book. It is so simple but so important to get right, so that the correct/intended people pick up the book. I think it would be vital as Marianne said to read as much of the manuscript as possible before designing a cover because the completed story may have an overriding tone that has to be conveyed to the readers. 
 
